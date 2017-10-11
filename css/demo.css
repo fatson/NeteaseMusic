@@ -1,0 +1,19 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Administrator\/Desktop\/myproject\/scss\/demo\.scss}line{font-family:\000032}}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Administrator\/Desktop\/myproject\/scss\/demo\.scss}line{font-family:\000036}}
+.container {
+  width: 1022px;
+  height: 670px;
+  margin: 0px auto;
+  background: #666666;
+  box-shadow: 2px 2px 5px grey;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Administrator\/Desktop\/myproject\/scss\/demo\.scss}line{font-family:\0000313}}
+.container .header {
+  height: 50px;
+  background: #c62f2f;
+}
